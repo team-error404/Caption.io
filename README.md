@@ -1,8 +1,4 @@
-# General Alert!
-
-## I am developing a webpage for this project which will contain additional features like #hash_tag prediction. Sorry for the inconvenience and thank you for visiting this project page
-
-# Instagram-Caption-Generator
+# Caption.io
 This project generates instagram captions for images. It is developed using a combination of Convolutional Neural Network and LSTM Neural Network.
 
 ## Table of Contents
